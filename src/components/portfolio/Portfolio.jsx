@@ -15,13 +15,13 @@ const Portfolio = () => {
 
       <div className="container portfolio__container">
         <article className='portfolio__item'>
-          <div className="portfolio__item-image">
+          <div className="portfolio__item-image"> 
             <img src={IMG1} alt="project title here" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Spotify Playlist Maker</h3>
             <div className="portfolio__items-cta">
-              <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
+              <a href="https://github.com/Amats817/spotify-playlist-maker" className='btn' target='_blank' rel='noreferrer'>Github</a>
+              <a href="https://amats817.github.io/spotify-playlist-maker/" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
             </div>
         </article>
 
@@ -29,10 +29,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="project title here" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Recipe Website with MealDB</h3>
             <div className="portfolio__items-cta">
-              <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
+              <a href="https://github.com/Amats817/recipe-website" className='btn' target='_blank' rel='noreferrer'>Github</a>
+              <a href="https://recipe-project-demo.onrender.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
             </div>
         </article>
 
