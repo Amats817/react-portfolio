@@ -8,8 +8,4 @@ This portfolio project is designed to highlight:
 - Personal and professional experiences
 - Project showcases
 - Contact details for potential opportunities
-<<<<<<< HEAD
 - A visually appealing, responsive design
-=======
-- A visually appealing, responsive design
->>>>>>> e5d38eb (update portfolio)
