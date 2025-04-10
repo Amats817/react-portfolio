@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react'
 import './about.css'
-import ME from '../../assets/cat.png'
+import ME from '../../assets/me2.jpg'
 import { PiMedalLight } from "react-icons/pi";
 import { SlBriefcase } from "react-icons/sl";
 

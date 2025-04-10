@@ -32,6 +32,15 @@
     margin-bottom: 1rem;
 }
 
+p {
+    font-size: 0.7rem;
+    margin: 1rem;
+}
+
+.btn{
+    margin: 0.5rem;
+}
+
 @media screen and (max-width: 1024px){
     .portfolio__container{
         grid-template-columns: 1fr 1fr;

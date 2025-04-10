@@ -33,6 +33,7 @@ const Portfolio = () => {
             <div className="portfolio__items-cta">
               <a href="https://github.com/Amats817/recipe-website" className='btn' target='_blank' rel='noreferrer'>Github</a>
               <a href="https://recipe-project-demo.onrender.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
+              <p>Heads up! This site is hosted on Render's free version, so it may take about 50 seconds to load. Thanks for your patience.</p>
             </div>
         </article>
 
