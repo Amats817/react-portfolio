@@ -4,8 +4,6 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 const Portfolio = () => {
   return (
@@ -16,7 +14,7 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className='portfolio__item'>
           <div className="portfolio__item-image"> 
-            <img src={IMG1} alt="project title here" />
+            <img src={IMG1} alt="Spotify Playlist Maker" />
           </div>
             <h3>Spotify Playlist Maker</h3>
             <div className="portfolio__items-cta">
@@ -27,7 +25,7 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG2} alt="project title here" />
+            <img src={IMG2} alt="RecipeDB" />
           </div>
             <h3>Recipe Website with MealDB</h3>
             <div className="portfolio__items-cta">
@@ -39,9 +37,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG3} alt="project title here" />
+            <img src={IMG3} alt="Woven" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Woven Clothing Marketplace Design</h3>
             <div className="portfolio__items-cta">
               <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
@@ -50,31 +48,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG4} alt="project title here" />
+            <img src={IMG4} alt="Dunplify" />
           </div>
-            <h3>This is a portfolio item title</h3>
-            <div className="portfolio__items-cta">
-              <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
-            </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="project title here" />
-          </div>
-            <h3>This is a portfolio item title</h3>
-            <div className="portfolio__items-cta">
-              <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
-              <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
-            </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="project title here" />
-          </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Dumplify Restaurant Design</h3>
             <div className="portfolio__items-cta">
               <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
