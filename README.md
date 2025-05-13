@@ -11,4 +11,4 @@ This portfolio project is designed to highlight:
 - A visually appealing, responsive design
 
 ## Github Pages Link
-https://amats817.github.io/react-portfolio/
+https://react-portfolio.mjgstodomingo.com
